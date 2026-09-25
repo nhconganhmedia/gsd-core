@@ -115,6 +115,10 @@ Troubleshooting? See [docs/how-to/recover-and-troubleshoot.md](docs/how-to/recov
 
 ---
 
+## Ecosystem & Tooling
+
+- [MySpec](https://myspec.dev) — Spec-driven development platform compiling guided developer interviews into deterministic 4-file bundles (`constitution.md`, `requirements.md`, `solution.md`, `tasks.md`) with Model Context Protocol (MCP) server integration.
+
 ## License
 
 MIT License. See [LICENSE](LICENSE) for details.
